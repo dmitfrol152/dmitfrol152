@@ -26,7 +26,7 @@
 ## • Certificates: https://drive.google.com/drive/folders/1ZVN6qnbM4RokJd6A7c2FrsOLL6DPSCk2?usp=sharing
 ## ________________________________________
 ## Skills
-## • Web development: HTML, CSS (SCSS), JavaScript, TypeScript
+## • Web development: HTML, CSS (SCSS), JavaScript, TypeScript, React
 ## • Tools: VSCode, Git (GitHub, GitLab), Node.js (npm), Webpack (Parcel, Vite)
 ## • Testing: Jest
 ## • Additional skills: Gulp, Pug, PixelPerfect, Figma, Photoshop
