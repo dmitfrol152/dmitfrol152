@@ -3,9 +3,7 @@
 **dmitfrol152/dmitfrol152** is a ✨ _special_ ✨ repository about me
 
 # Summary
-
 **Frolkov Dmitry Viktorovich**
-________________________________________
 
 ## Contact information
 ### • Date of birth: 21.10.1992 (32 years old)
