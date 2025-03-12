@@ -1,16 +1,15 @@
-**Hi there** 👋
-
+# Hi there** 👋
 **dmitfrol152/dmitfrol152** is a ✨ _special_ ✨ repository about me
 
-# Summary
+## Summary
 **Frolkov Dmitry Viktorovich**
-
-## Contact information
-### • Date of birth: 21.10.1992 (32 years old)
-### • Phone: +7 968 ​​767 1773
-### • E-mail: dmitfrol152@mail.ru
-### • Additional e-mail: dmitriy.frolkov92@mail.ru
-### • Instagram: @dimon_frolkov
+________________________________________
+### Contact information
+• Date of birth: 21.10.1992 (32 years old)  
+• Phone: +7 968 ​​767 1773  
+• E-mail: dmitfrol152@mail.ru  
+• Additional e-mail: dmitriy.frolkov92@mail.ru  
+• Instagram: @dimon_frolkov  
 ________________________________________
 
 ### Goal
