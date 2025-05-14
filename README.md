@@ -27,6 +27,11 @@ Specialization: Spacecraft, overclocked blocks and nanosatellites
 ________________________________________
 
 ### Skills
+• Date of birth: 21.10.1992 (32 years old)  
+• Phone: +7 968 ​​767 1773  
+• E-mail: dmitfrol152@mail.ru  
+• Additional e-mail: dmitriy.frolkov92@mail.ru  
+• Instagram: @dimon_frolkov  
 • Web development:
 HTML, CSS, JavaScript, TypeScript
 • Frameworks and Libraries:
