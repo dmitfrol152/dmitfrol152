@@ -12,6 +12,10 @@
 • Instagram: @dimon_frolkov  
 ________________________________________
 
+### Some deployed projects
+Project Marusay (React + TS): [Link (click)](https://marusya.netlify.app/movie/genres)
+________________________________________
+
 ### Goal
 _I strive to take the position of a frontend developer in order to apply my skills in web development and contribute to the success of the team. I am open to discussing salary conditions._
 ________________________________________
