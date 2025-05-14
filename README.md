@@ -27,10 +27,22 @@ Specialization: Spacecraft, overclocked blocks and nanosatellites
 ________________________________________
 
 ### Skills
-• Web development: HTML, CSS (SCSS), JavaScript, TypeScript, React  
-• Tools: VSCode, Git (GitHub, GitLab), Node.js (npm), Webpack (Parcel, Vite)  
-• Testing: Jest  
-• Additional skills: Gulp, Pug, PixelPerfect, Figma, Photoshop  
+• Web development:
+HTML, CSS, JavaScript, TypeScript
+• Frameworks and Libraries:
+React, Next.js
+React-router, React-hook-form, Zod, Tanstack Query (react-query), Redux Toolkit (RTK Redux) и т.д.
+Material-UI (MUI), ANT Desighn, Styled-components и т.д.
+• Tools and Assemblies:
+VSCode, Git (GitHub, GitLab), Node.js (npm), Webpack, Vite, Parcel, Таскраннер: Gulp
+• Preprocessors and styles:
+SCSS, следование PixelPerfect
+• Testing:
+Jest, Cypress
+• Design:
+Figma, Photoshop
+• Backend:	
+Node.js, Express.js
 ________________________________________
 
 ### About me
