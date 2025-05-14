@@ -13,7 +13,7 @@
 ________________________________________
 
 ### Some deployed projects and github project
-Project Marusay (React + TS): [Link (click)](https://marusya.netlify.app/)
+Project Marusay (React + TS): [Link (click)](https://marusya.netlify.app/)  
 github projects: [Link (click)](https://github.com/dmitfrol152/Projects)
 ________________________________________
 
