@@ -13,7 +13,7 @@
 ________________________________________
 
 ### Some deployed projects
-Project Marusay (React + TS): [Link (click)](https://marusya.netlify.app/movie/genres)
+Project Marusay (React + TS): [Link (click)](https://marusya.netlify.app/)
 ________________________________________
 
 ### Goal
