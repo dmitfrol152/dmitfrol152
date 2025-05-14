@@ -12,6 +12,10 @@
 • Instagram: @dimon_frolkov  
 ________________________________________
 
+### Some deployed projects
+Project Marusay (React + TS): [Link (click)](https://marusya.netlify.app/)
+________________________________________
+
 ### Goal
 _I strive to take the position of a frontend developer in order to apply my skills in web development and contribute to the success of the team. I am open to discussing salary conditions._
 ________________________________________
@@ -27,10 +31,22 @@ Specialization: Spacecraft, overclocked blocks and nanosatellites
 ________________________________________
 
 ### Skills
-• Web development: HTML, CSS (SCSS), JavaScript, TypeScript, React  
-• Tools: VSCode, Git (GitHub, GitLab), Node.js (npm), Webpack (Parcel, Vite)  
-• Testing: Jest  
-• Additional skills: Gulp, Pug, PixelPerfect, Figma, Photoshop  
+• Web development:  
+HTML, CSS, JavaScript, TypeScript  
+• Frameworks and Libraries:  
+React, Next.js  
+React-router, React-hook-form, Zod, Tanstack Query (react-query), Redux Toolkit (RTK Redux) и т.д.  
+Material-UI (MUI), ANT Desighn, Styled-components и т.д.  
+• Tools and Assemblies:  
+VSCode, Git (GitHub, GitLab), Node.js (npm), Webpack, Vite, Parcel, Таскраннер: Gulp  
+• Preprocessors and styles:  
+SCSS, следование PixelPerfect  
+• Testing:  
+Jest, Cypress  
+• Design:  
+Figma, Photoshop  
+• Backend:  
+Node.js, Express.js  
 ________________________________________
 
 ### About me
