@@ -27,27 +27,22 @@ Specialization: Spacecraft, overclocked blocks and nanosatellites
 ________________________________________
 
 ### Skills
-• Date of birth: 21.10.1992 (32 years old)  
-• Phone: +7 968 ​​767 1773  
-• E-mail: dmitfrol152@mail.ru  
-• Additional e-mail: dmitriy.frolkov92@mail.ru  
-• Instagram: @dimon_frolkov  
-• Web development:
-HTML, CSS, JavaScript, TypeScript
-• Frameworks and Libraries:
-React, Next.js
-React-router, React-hook-form, Zod, Tanstack Query (react-query), Redux Toolkit (RTK Redux) и т.д.
-Material-UI (MUI), ANT Desighn, Styled-components и т.д.
-• Tools and Assemblies:
-VSCode, Git (GitHub, GitLab), Node.js (npm), Webpack, Vite, Parcel, Таскраннер: Gulp
-• Preprocessors and styles:
-SCSS, следование PixelPerfect
-• Testing:
-Jest, Cypress
-• Design:
-Figma, Photoshop
-• Backend:	
-Node.js, Express.js
+• Web development:  
+HTML, CSS, JavaScript, TypeScript  
+• Frameworks and Libraries:  
+React, Next.js  
+React-router, React-hook-form, Zod, Tanstack Query (react-query), Redux Toolkit (RTK Redux) и т.д.  
+Material-UI (MUI), ANT Desighn, Styled-components и т.д.  
+• Tools and Assemblies:  
+VSCode, Git (GitHub, GitLab), Node.js (npm), Webpack, Vite, Parcel, Таскраннер: Gulp  
+• Preprocessors and styles:  
+SCSS, следование PixelPerfect  
+• Testing:  
+Jest, Cypress  
+• Design:  
+Figma, Photoshop  
+• Backend:  
+Node.js, Express.js  
 ________________________________________
 
 ### About me
