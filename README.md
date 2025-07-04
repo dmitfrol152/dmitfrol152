@@ -21,7 +21,7 @@
 **Project Marusay (React + TS): [Link (click)](https://marusya.netlify.app/)**  
 **Project Travel (React + TS): [Link (click)](https://all-about-travel.netlify.app/)**
 
-Project Notes (Node.js + express + postgreSQL): [Link (click)](projects-production-0271.up.railway.app)  
+Project Notes (Node.js + express + postgreSQL): [Link (click)](https://projects-production-0271.up.railway.app)  
 Project Coin (JavaScript (log: developer, pas: frolkov)): [Link (click)](https://coin-btc.netlify.app/)  
 Project W-mark (Page layout): [Link (click)](https://w-mark.netlify.app/)
 
