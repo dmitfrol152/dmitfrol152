@@ -9,10 +9,13 @@
 ### Contact information
 
 • Date of birth: 21.10.1992 (32 years old)  
-• Phone: +7 968 ​​767 1773  
-• E-mail: dmitfrol152@mail.ru  
-• Additional e-mail: dmitriy.frolkov92@mail.ru  
-• Instagram: @dimon_frolkov
+• Phone: +7 977 ​​968 1773  
+• E-mail: dmitriy.frolkov92@mail.ru  
+• Additional e-mail: dmitfrol152@mail.ru  
+• Instagram: @dimon_frolkov  
+• Telegram: @dimon_frolkov  
+• Habr Career: [Link (click)](https://career.habr.com/dmitry_frolkov_v)  
+• Linkedin: [Link (click)](http://www.linkedin.com/in/dmitry-viktorovich-frolkov)
 
 ---
 
@@ -78,4 +81,4 @@ _I am a goal-oriented and responsible developer with experience in 3D visualizat
 ### Languages
 
 • Russian: native  
-• English: Pre-Intermediate
+• English: B1
