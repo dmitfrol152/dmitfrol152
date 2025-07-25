@@ -23,6 +23,7 @@
 
 **Project Marusay (React + TS): [Link (click)](https://marusya.netlify.app/)**  
 **Project Travel (React + TS): [Link (click)](https://all-about-travel.netlify.app/)**
+**Project Audioplayer (React + TS): [Link (click)](https://audioplayer-self.netlify.app/)**
 
 Project Notes (Node.js + express + postgreSQL): [Link (click)](https://projects-production-0271.up.railway.app)  
 Project Coin (JavaScript (log: developer, pas: frolkov)): [Link (click)](https://coin-btc.netlify.app/)  
