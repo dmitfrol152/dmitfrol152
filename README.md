@@ -48,13 +48,6 @@ Moscow Aviation Institute (National Research University), Moscow
 Specialization: Spacecraft, overclocked blocks and nanosatellites  
 2011-2016 (Specialist)
 
-### Additional education:
-
-• Frontend developer, SkillBox — 2024 – 2025  
-• Certificates: https://drive.google.com/drive/folders/1ZVN6qnbM4RokJd6A7c2FrsOLL6DPSCk2?usp=sharing
-
----
-
 ### Skills
 
 • Web development:  
