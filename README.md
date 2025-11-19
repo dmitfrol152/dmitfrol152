@@ -11,10 +11,10 @@
 ### Contact information
 
 • Date of birth: 21.10.1992 (32 years old)  
-• Phone: +7 977 ​​968 1773  
+• Phone: +7 968 767 1773  
 • WhatsApp: +7 968 767 1773  
-• E-mail: dmitriy.frolkov92@mail.ru  
-• Additional e-mail: dmitfrol152@mail.ru  
+• E-mail: dmitfrol152@mail.ru  
+• Additional e-mail: dmitriy.victorovich.frolkov@mail.ru  
 • Instagram: @dimon_frolkov  
 • Telegram: @dimon_frolkov  
 • Habr Career: [Link (click)](https://career.habr.com/dmitry_frolkov_v)  
